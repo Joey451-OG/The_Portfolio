@@ -12,7 +12,7 @@ IMAGE HERE
 **Website**  
 A simple personal wordpress website hosted on a raspberry pi. This project in still in active development. [Link](http://www.josephgarneau.com)
 
-**GeoSelf**
+**GeoSelf**  
 A self hosted geo-location tracking service (COMING SOON).
 
 ## Past Projects
