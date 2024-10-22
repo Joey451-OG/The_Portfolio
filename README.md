@@ -10,13 +10,24 @@ YT-Download is a portable yt-dlp wrapper with GUI. YT-Download is Open Source (u
 ![Screenshot from 2023-12-03 13-18-14](https://github.com/Joey451-OG/The_Portfolio/assets/60891047/26cc3426-180e-4619-9d61-342ba9da9c29)
 
 **Website**  
-A simple personal wordpress website hosted on a raspberry pi. This project in still in active development. [Link](http://www.josephgarneau.com)
+A simple personal basic HTML and CSS website hosted on a raspberry pi. This project in still in active development. [Link](http://www.josephgarneau.com)
 
-**GeoSelf**  
-A self hosted geo-location tracking service (COMING SOON).
+~~**GeoSelf**~~ [SHELVED]
+~~A self hosted geo-location tracking service.~~
 
 ## Past Projects
 These are completed or finished projects that are no longer in development. They are organized in this order: CLIs, Tutorials, Video Games.
+
+**Hack Beta**  
+I served as the Marketing Director for the University of Mississippi's first hackathon. You can read more about the event [here](https://olemiss.edu/news/2024/04/hack-beta-hackathon/).  
+
+**Targeted Advertising: How Companies And Governments Are Weaponising User Data Against The Consumer**  
+I wrote a research paper and published it in a peer-reviewed academic journal at the University of Mississippi.  
+  
+*Abstract*:
+> With the recent rise of a new digital age, many people are ditching more traditional methods of performing everyday tasks and replacing them with free and convenient online services. But as the saying goes, there is no such thing as a free lunch, and that sentiment holds true in terms of online services as well. Consumers pay for these online services with something much more valuable than money—their personal data. This paper explores how companies and governments present consumers with targeted advertisements, shows how targeted advertisements are inherently manipulative, and gives an example of one government and one company using this technology to influence the behavior of its target demographics. The paper concludes with a discussion of the ethical implications of the research, states its limitations, proposes possible solutions by providing contextual information, and concludes by arguing that the only way to change this behavior would be through legislative measures.
+
+You can read the full paper [here](https://egrove.olemiss.edu/umurjournal/vol6/iss1/7/).  
 
 **SigCal**  
 SigCal is a simple summation calculator I wrote whilst learning python. [Link](https://github.com/Joey451-OG/SigCal)
