@@ -1,3 +1,6 @@
+# This Repo is no longer being updated as I have too many projects that are constantly in and out of active development.
+I am currently working on a lot of self-hosted stuff (Jellyfin, Syncthing, Game servers, etc), and I can't really post that here. 
+
 # The Portfolio
 I have come to realize that many of my projects are spread throughout the vast corners of the internet. This repo attempts to list all of these projects.
 
